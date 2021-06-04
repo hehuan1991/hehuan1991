@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hehuan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m hehuan
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning SHU MBA
+- 💞️ I’m looking to collaborate on cloud compute
+- 📫 How to reach me 
 
 <!---
 hehuan1991/hehuan1991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
